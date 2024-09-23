@@ -14,11 +14,8 @@ public class Main {
         
         // When you have completed the method printMeals()
 
-
         exactum.printMeals();
 
-
-        
 //         When you have completed the method clearMenu()
 //        meals.clear();
 //         you can remove the comments below
